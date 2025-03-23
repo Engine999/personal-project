@@ -174,7 +174,7 @@ void check_folder(const char* directory){
 // Main Function
 //
 int main() {
-	check_folder("C:\\Users\\dbswodyd\\Desktop\\study\\C\\C Express");
+	check_folder("C:filepath");
 	return 0;
 }
 
